@@ -1,0 +1,22 @@
+name: Update Metadata
+
+on:
+  repository_dispatch:
+    types: UpdateMetadata
+
+jobs:
+  update_metadata:
+    name: Update Metadata
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo event
+        run: |
+          echo "${{ github.event.client_payload }}"
+      - name: write metadata
+        run: |
+          echo "${{ github.event.client_payload }}" > plugins.json
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: plugin metadata update
+          branch: master
+          file_pattern: plugins.json
