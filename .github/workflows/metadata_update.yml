@@ -9,6 +9,8 @@ jobs:
     name: Update Metadata
     runs-on: ubuntu-latest
     steps:
+      - name: checkout code
+        uses: actions/checkout@v2
       - name: write metadata
         run: |
           echo '${{ toJson(github.event.client_payload.metadata) }}' > plugins.json
