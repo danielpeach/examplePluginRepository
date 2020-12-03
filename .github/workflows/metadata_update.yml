@@ -11,10 +11,10 @@ jobs:
     steps:
       - name: echo event
         run: |
-          echo "${{ github.event.client_payload }}"
+          echo "${{ toJson(github.event.client_payload) }}"
       - name: write metadata
         run: |
-          echo "${{ github.event.client_payload.metadata }}" | json_pp > plugins.json
+          echo "${{ toJson(github.event.client_payload.metadata) }}" | json_pp > plugins.json
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: plugin metadata update
