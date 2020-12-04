@@ -1,0 +1,486 @@
+{
+  "id": "Armory.RandomWaitPlugin",
+  "releases": [
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.17"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.16"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.15"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.14"
+    },
+    {
+      "compatibility": [],
+      "version": "1.1.13"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.12"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.11"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.10"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.9"
+    },
+    {
+      "compatibility": [
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.3",
+            "1.23.2",
+            "1.23.1",
+            "1.23.0"
+          ],
+          "service": "orca",
+          "version": "2.17.0-20201014010017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.3",
+            "1.22.2",
+            "1.22.1",
+            "1.22.0"
+          ],
+          "service": "orca",
+          "version": "2.16.0-20200817170018"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.4",
+            "1.21.3"
+          ],
+          "service": "orca",
+          "version": "2.15.2-20200806164929"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.2"
+          ],
+          "service": "orca",
+          "version": "2.15.1-20200723183642"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.21.1",
+            "1.21.0"
+          ],
+          "service": "orca",
+          "version": "2.15.0-20200625152925"
+        }
+      ],
+      "version": "1.1.8"
+    }
+  ]
+}
