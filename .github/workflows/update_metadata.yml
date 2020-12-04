@@ -14,9 +14,9 @@ jobs:
       - name: write metadata
         run: |
           mkdir -p ${{ github.event.client_payload.path }}
-          echo '${{ toJson(github.event.client_payload.metadata) }}' > ${{ github.event.client_payload.file }}
+          echo '${{ toJson(github.event.client_payload.metadata) }}' > ${{ github.event.client_payload.path }}/${{ github.event.client_payload.file }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: plugin metadata update
           branch: master
-          file_pattern: plugins.json
+          file_pattern: ${{ github.event.client_payload.path }}/${{ github.event.client_payload.file }}
