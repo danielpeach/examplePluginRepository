@@ -13,7 +13,8 @@ jobs:
         uses: actions/checkout@v2
       - name: write metadata
         run: |
-          echo '${{ toJson(github.event.client_payload.metadata) }}' > plugins.json
+          mkdir -p ${{ github.event.client_payload.path }}
+          echo '${{ toJson(github.event.client_payload.metadata) }}' > ${{ github.event.client_payload.file }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: plugin metadata update
