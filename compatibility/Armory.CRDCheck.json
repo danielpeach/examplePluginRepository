@@ -121,6 +121,14 @@
           ],
           "service": "clouddriver",
           "version": "6.10.0-20200625140019"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.1"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.1-20201102202004"
         }
       ],
       "version": "0.1.3"
