@@ -1,0 +1,45 @@
+{
+  "id": "Armory.CRDCheck",
+  "releases": [
+    {
+      "compatibility": [],
+      "version": "0.2.0"
+    },
+    {
+      "compatibility": [],
+      "version": "0.1.3"
+    },
+    {
+      "compatibility": [],
+      "version": "0.1.2"
+    },
+    {
+      "compatibility": [],
+      "version": "0.1.1"
+    },
+    {
+      "compatibility": [],
+      "version": "0.1.0"
+    },
+    {
+      "compatibility": [],
+      "version": "0.0.19"
+    },
+    {
+      "compatibility": [],
+      "version": "0.0.18"
+    },
+    {
+      "compatibility": [],
+      "version": "0.0.17"
+    },
+    {
+      "compatibility": [],
+      "version": "0.0.16"
+    },
+    {
+      "compatibility": [],
+      "version": "0.0.15"
+    }
+  ]
+}
