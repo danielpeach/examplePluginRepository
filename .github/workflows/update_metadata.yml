@@ -6,7 +6,7 @@ on:
 
 jobs:
   update_metadata:
-    name: Update Metadata
+    name: Update Metadata ${{ github.event.client_payload.uuid }}
     runs-on: ubuntu-latest
     steps:
       - name: checkout code
