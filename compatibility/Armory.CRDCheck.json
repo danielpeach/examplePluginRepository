@@ -6,6 +6,7 @@
         {
           "outcome": "success",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -30,6 +31,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -71,6 +73,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.2.0"
@@ -80,6 +100,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -96,6 +117,7 @@
         {
           "outcome": "success",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -145,6 +167,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.1.3"
@@ -154,6 +194,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -178,6 +219,7 @@
         {
           "outcome": "success",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -219,6 +261,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.1.2"
@@ -228,6 +288,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -252,6 +313,7 @@
         {
           "outcome": "success",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -293,6 +355,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.1.1"
@@ -302,6 +382,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -326,6 +407,7 @@
         {
           "outcome": "success",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -367,6 +449,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.1.0"
@@ -380,6 +480,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -404,6 +505,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -445,6 +547,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.0.18"
@@ -454,6 +574,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -478,6 +599,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -519,6 +641,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.0.17"
@@ -528,6 +668,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -552,6 +693,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -593,6 +735,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.0.16"
@@ -602,6 +762,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.23.4",
             "1.23.3"
           ],
           "service": "clouddriver",
@@ -626,6 +787,7 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.22.4",
             "1.22.3"
           ],
           "service": "clouddriver",
@@ -667,6 +829,24 @@
           ],
           "service": "clouddriver",
           "version": "6.10.1-20201107030017"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.23.4",
+            "1.23.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.0.3-20201201114456"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.22.4",
+            "1.22.3"
+          ],
+          "service": "clouddriver",
+          "version": "6.11.2-20201201112312"
         }
       ],
       "version": "0.0.15"
